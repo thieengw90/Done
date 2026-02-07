@@ -1,4 +1,5 @@
 --// This file was created by _Wt
+
 local Main = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local CreateGui = Main:CreateWindow({
     Title = "Gooning hub",
